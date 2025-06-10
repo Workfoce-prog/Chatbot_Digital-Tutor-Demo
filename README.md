@@ -1,2 +1,12 @@
-# Chatbot_Digital-Tutor-Demo
-An AI-powered learning assistant that helps students master math concepts across algebra, geometry, statistics, and more. Includes multilingual tutoring, PDF worksheet generation, and a teacher dashboard for tracking engagement
+# Digital Tutor Demo (No API Required)
+
+This is a demo version of the Digital Tutor app.
+- No OpenAI key required
+- Uses sample responses and worksheet content
+- Good for testing UI or student training environments
+
+## To run:
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
